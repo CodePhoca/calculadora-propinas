@@ -2,8 +2,8 @@
 Nombre del programa: Calculadora de Propinas Pro
 Objetivo: Calcular el pago por persona en una mesa incluyendo propinas e impuestos.
 Fecha: 08/06/2026
-Programado por: PhocaDev
-Modificado por: PhocaDev
+Programado por: CodePhoca
+Modificado por: CodePhoca
 
 """
 
